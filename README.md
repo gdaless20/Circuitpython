@@ -104,7 +104,11 @@ while True:
 
 
 ### Evidence
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
+
+
+https://user-images.githubusercontent.com/71349797/133492050-43797708-d633-4f63-bfa7-f6a821c85aad.mov
+
+
 
 ### Wiring
 Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
