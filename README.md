@@ -12,9 +12,8 @@ This repository will actually serve as a aid to help you get started with your o
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+I used Mu to write python code to make an led flash rainbow in a cycle as shown.
 
-Here's how you make code look like code:
 
 ```python
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
@@ -111,12 +110,10 @@ https://user-images.githubusercontent.com/71349797/133492050-43797708-d633-4f63-
 
 
 ### Wiring
-Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+There was no wiring for this assignment .
 
 ### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
-
+I struggled a lot with making the nano pixel flash different colors . When i tried to write my own code from scratch it would flash red , yellow , and green then flash blue a few times. What ended up working for me was researching online for already written portions of code for this project . I was able to find something that worked and then was able to get my led to flash.
 
 
 
