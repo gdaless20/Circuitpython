@@ -166,7 +166,7 @@ https://user-images.githubusercontent.com/71349797/133495444-635f8a92-3d28-4106-
 ![Start Simulating](https://user-images.githubusercontent.com/71349797/133495354-0ef9219e-2658-4c7b-bef3-01cff6986baf.png)
 
 ### Reflection
-
+ I once again had a problem with my code when i tried doing it from scratch . Im not very good at coding so ive learned that researching what code im going to write before i do it helps me a lot in the long run and tends to save me time.
 
 
 
