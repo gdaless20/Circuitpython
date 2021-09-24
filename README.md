@@ -174,6 +174,9 @@ https://user-images.githubusercontent.com/71349797/133495444-635f8a92-3d28-4106-
 
 ### Description & Code
 
+With Mu i coded a distance servo to detect how close an object is and show a certain color that corresponds to the distance.
+
+
 ```python
 import time
 import board
@@ -240,11 +243,13 @@ while True:
 ```
 
 ### Evidence
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71349797/134724959-4f1d69a2-bb28-4c98-8dd7-6bff58e07b80.gif)
 
 ### Wiring
+![Powerful Esboo](https://user-images.githubusercontent.com/71349797/134725601-72db0fcb-0d50-486c-aff5-9e0ec1772057.png)
 
 ### Reflection
-
+This project was very stressful as I could not get my serial monitor to show distance, I had to use my peers to help me and I was eventually able to figure it out.
 
 
 
