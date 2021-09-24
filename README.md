@@ -170,7 +170,7 @@ https://user-images.githubusercontent.com/71349797/133495444-635f8a92-3d28-4106-
 
 
 
-## CircuitPython_LCD
+## CircuitPython Distance Servo
 
 ### Description & Code
 
