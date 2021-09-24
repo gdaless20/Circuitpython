@@ -5,7 +5,7 @@ This repository will actually serve as a aid to help you get started with your o
 * [Table of Contents](#TableOfContents)
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
-* [CircuitPython_Distance Servo](#CircuitPython_Lcd)
+* [CircuitPython_Distance Servo](#CircuitPython_Distance_Servo)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
