@@ -96,10 +96,12 @@ while True:
     time.sleep(1)
 
     rainbow_cycle(0.001)  # rainbow cycle with 1ms delay per step
+    
+  
 
 
 ```
-
+[Code link](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/circuitpython-internal-rgb-led)
 
 ### Evidence
 
