@@ -12,7 +12,7 @@
 
 ### Description & Code
 
-The goal was to get the neopixel on the metro express board to  clors.I looked up code on adafruit.com and changed it to fit the metro express board and the function i needed it to serve .
+The goal was to get the neopixel on the metro express board to change colors.I looked up code on adafruit.com and changed it to fit the metro express board and the function i needed it to serve .
 
 ```python
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
