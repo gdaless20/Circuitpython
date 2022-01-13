@@ -12,7 +12,7 @@
 
 ### Description & Code
 
-The goal was to get the neopixel on the metro express board to change colors.I looked up code on adafruit.com and changed it to fit the metro express board and the function i needed it to serve .
+The goal was to get the neopixel on the metro express board to change colors.I looked up code on adafruit.com and changed it to fit the metro express board and preform hello world  .
 
 ```python
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
@@ -122,7 +122,7 @@ I struggled a lot with making the nano pixel flash different colors . When i tri
 
 ### Description & Code
 
-With using Mu and python code to make a servo slowly turn .
+With using Mu and python code to make a servo slowly turn a 180  .The 180 micro servo turns 180 degress at a slow rate then turns back once the cycle is complete. I found my code on Adafruit.com and changed it to work with the metro express board i was using.
 
 ```python
 """CircuitPython Essentials Servo continuous rotation servo example"""
@@ -153,7 +153,7 @@ while True:
 
 
 ```
-
+[Code link](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/circuitpython-internal-rgb-led)
 ### Evidence
 
 
@@ -175,7 +175,7 @@ https://user-images.githubusercontent.com/71349797/133495444-635f8a92-3d28-4106-
 
 ### Description & Code
 
-With Mu i coded a distance servo to detect how close an object is and show a certain color that corresponds to the distance.
+With Mu i coded a distance servo to detect how close an object is and show a certain color that corresponds to the distance. The neo-pixel in the board displayed the distance from the object to the sensor as it was moving.
 
 
 ```python
@@ -242,7 +242,7 @@ while True:
 
 
 ```
-
+[Code link](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/circuitpython-internal-rgb-led)
 ### Evidence
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/71349797/134724959-4f1d69a2-bb28-4c98-8dd7-6bff58e07b80.gif)
 
@@ -250,7 +250,7 @@ while True:
 ![Powerful Esboo](https://user-images.githubusercontent.com/71349797/134725601-72db0fcb-0d50-486c-aff5-9e0ec1772057.png)
 
 ### Reflection
-This project was very stressful as I could not get my serial monitor to show distance, I had to use my peers to help me and I was eventually able to figure it out.
+This project was very stressful as I could not get my serial monitor to show distance, I had to use my peers to help me and I was eventually able to figure it out. I also had to do a lot of trial and error when using the color codes.
 
 
 
@@ -258,6 +258,7 @@ This project was very stressful as I could not get my serial monitor to show dis
 ## CircuitPython_Photointerrupter
 
 ### Description & Code
+I found code on Adafruit.com and changed it to fit my metro express board. I used a photo interrupter and made it so when an object passed between the two sensors it would flash the red light.
 
 ```python
 from digitalio import DigitalInOut, Direction, Pull
@@ -286,7 +287,7 @@ while True:
     time.sleep(0.1)
 
 ```
-
+[Code link](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/circuitpython-internal-rgb-led)
 ### Evidence
 
 https://user-images.githubusercontent.com/71349797/149255236-5a487b99-0ee5-4ce6-9dd0-ead713604ebf.mp4
@@ -296,3 +297,5 @@ https://user-images.githubusercontent.com/71349797/149255236-5a487b99-0ee5-4ce6-
 ![photointerrupter_wiring](https://user-images.githubusercontent.com/71349797/149255410-87310b2a-6b4f-47cb-8991-7d1b8a96b390.png)
 
 ### Reflection
+
+I didnt have much difficulty on this as the code i found online fit perfectly . I had to adjust some of the inputs and outputs and do a little bit of soldering but as stated i didnt have much difficulty.
