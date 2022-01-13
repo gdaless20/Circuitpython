@@ -5,7 +5,7 @@
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_Distance Servo](#CircuitPython_Distance_Servo)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [CircuitPython_Photointerrupter](#CircuitPython_Photointerrupter)
 ---
 
 ## Hello_CircuitPython
@@ -255,7 +255,7 @@ This project was very stressful as I could not get my serial monitor to show dis
 
 
 
-## NextAssignment
+## CircuitPython_Photointerrupter
 
 ### Description & Code
 
@@ -289,6 +289,10 @@ while True:
 
 ### Evidence
 
+https://user-images.githubusercontent.com/71349797/149255236-5a487b99-0ee5-4ce6-9dd0-ead713604ebf.mp4
+
+
 ### Wiring
+![photointerrupter_wiring](https://user-images.githubusercontent.com/71349797/149255410-87310b2a-6b4f-47cb-8991-7d1b8a96b390.png)
 
 ### Reflection
